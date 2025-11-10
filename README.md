@@ -2,7 +2,6 @@
 
 This project provides a **visual illustration and geometric proof** of the 2×2 determinant formula using **Manim** (`manimlib` version).
 
-\[
 \begin{vmatrix}
 a & c \\
 b & d
@@ -17,7 +16,6 @@ a & c \\
 0 & c \\
 b & d
 \end{vmatrix}
-\]
 
 The animation shows how the determinant, representing the **signed area** of a parallelogram formed by two vectors, can be expressed as the sum of areas corresponding to the vector's x- and y-components.  
 
