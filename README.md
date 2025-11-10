@@ -6,7 +6,7 @@ This project provides a **visual illustration and geometric proof** of the 2×2 
 a & c \\
 b & d
 \end{vmatrix}
-=
+'=
 \begin{vmatrix}
 a & c \\
 0 & d
